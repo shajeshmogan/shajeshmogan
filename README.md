@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Shajesh 👋
 
-<!--
-**shajeshmogan/shajeshmogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Applied AI & Analytics student at Singapore Polytechnic, interested in using data and machine learning to solve real-world problems.
 
-Here are some ideas to get you started:
+## Currently working with
+- Python
+- SQL
+- Pandas
+- Scikit-learn
+- PyTorch
+- Data Engineering
+- Machine Learning & Deep Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+I'm currently building and documenting projects in data analytics, machine learning and applied AI.
+
+More projects coming soon.
