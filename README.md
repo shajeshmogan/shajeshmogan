@@ -7,7 +7,7 @@ I'm an Applied AI & Analytics student at Singapore Polytechnic, interested in us
 - SQL
 - Pandas
 - Scikit-learn
-- PyTorch
+- Keras
 - Data Engineering
 - Machine Learning & Deep Learning
 
